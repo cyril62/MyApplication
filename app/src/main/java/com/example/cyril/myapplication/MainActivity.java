@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        //comment and comment in android studio
-
-        int i = 0;
+        //comment delete
     }
 }

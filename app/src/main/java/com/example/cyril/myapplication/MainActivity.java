@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
         //comment delete
 
         int i = 0;
+
+        if (i == 0) {
+            i =1;
+        }
     }
 }
